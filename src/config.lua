@@ -2,5 +2,6 @@ return {
   version = 0;
   enabled = true;
   totalLayouts = 30;
-  columnOffsetX = 95;
+  layoutScale = 0.40;
+  columnSpacing = 40;
 }
