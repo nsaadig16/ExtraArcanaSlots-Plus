@@ -1,7 +1,7 @@
 # Extra Arcana Layout Slots 30
 
 An extension of [Extra Arcana Layout Slots](https://thunderstore.io/c/hades-ii/p/ReadEmAndWeep/Extra_Arcana_Layout_Slots/)
-by @ReadEmAndWeep that raises the number of arcana layouts from 16 to 30.
+by [@ReadEmAndWeep](https://github.com/Read-Em-And-Weep) that raises the number of arcana layouts from 16 to 30.
 
 ## Requirements
 
@@ -33,7 +33,7 @@ Always back up your saves before installing or removing mods.
 ## Credits
 
 All the credit for the original idea and the layouts 1 to 16 goes to
-@ReadEmAndWeep. This mod only adds layouts 17 to 30 on top of it.
+[@ReadEmAndWeep](https://github.com/Read-Em-And-Weep). This mod only adds layouts 17 to 30 on top of it.
 
 ## Source
 
