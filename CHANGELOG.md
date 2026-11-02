@@ -7,16 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.0.2] - 2026-06-28
-
-- Made uninstallation instructions more clear
-
-## [0.0.1] - 2026-06-28
+## [1.0.0] - 2026-11-02
 
 ### Added
 
-- First version of the mod!
+- Arcana layouts 17 to 30, on top of the 16 provided by Extra Arcana Layout Slots.
+- Config options `totalLayouts` and `columnOffsetX`.
 
-[unreleased]: https://github.com/Read-Em-And-Weep/ExtraArcanaSlots/compare/0.0.2...HEAD
-[0.0.2]: https://github.com/Read-Em-And-Weep/ExtraArcanaSlots/compare/0.0.1...0.0.2
-[0.0.1]: https://github.com/Read-Em-And-Weep/ExtraArcanaSlots/compare/2cb81fb6649a097527fb1ba46076db96e8acb2f8...0.0.1
+[unreleased]: https://github.com/nsaadig16/ExtraArcanaSlots-Plus/compare/1.0.0...HEAD
+[1.0.0]: https://github.com/nsaadig16/ExtraArcanaSlots-Plus/releases/tag/1.0.0

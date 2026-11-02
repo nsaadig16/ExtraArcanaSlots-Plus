@@ -1,7 +1,40 @@
-# Extra Arcana Slots
+# Extra Arcana Layout Slots 30
 
-Have you ever been creating Arcana set-ups and wanted to save more layouts? This mod increases the number of saved layouts from 6 to 16!
+An extension of [Extra Arcana Layout Slots](https://thunderstore.io/c/hades-ii/p/ReadEmAndWeep/Extra_Arcana_Layout_Slots/)
+by @ReadEmAndWeep that raises the number of arcana layouts from 16 to 30.
 
-## Uninstallation
+## Requirements
 
-When uninstalling, make sure that the selected slot is one of the first six (first six on the left). If you do not do this, it is still fine, however make sure that when you next load into the game without the mod, you do not click "select previous set" but instead advance to the "next set"
+This mod requires **Extra Arcana Layout Slots**, which r2modman installs
+automatically as a dependency. This mod does not replace it.
+
+## How it works
+
+The original mod provides layouts 1 to 16 (two columns of 8). This mod adds
+layouts 17 to 30 as two extra columns to the right, following the same layout
+as the original.
+
+## Configuration
+
+Edit the `.cfg` file generated in the profile's config folder:
+
+- `totalLayouts`: total number of layouts (default 30).
+- `columnOffsetX`: horizontal distance between columns (default 95).
+
+## Uninstalling
+
+Before removing the mod, empty or reset any layouts from 17 to 30 so that
+your save does not keep data in slots that no longer exist. Then disable or
+uninstall the mod. If you also remove Extra Arcana Layout Slots, follow its
+own uninstallation instructions.
+
+Always back up your saves before installing or removing mods.
+
+## Credits
+
+All the credit for the original idea and the layouts 1 to 16 goes to
+@ReadEmAndWeep. This mod only adds layouts 17 to 30 on top of it.
+
+## Source
+
+https://github.com/nsaadig16/ExtraArcanaSlots-Plus

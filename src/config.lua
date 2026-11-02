@@ -1,5 +1,6 @@
 return {
   version = 0;
   enabled = true;
-  message = 'Hello World!';
+  totalLayouts = 30;
+  columnOffsetX = 95;
 }

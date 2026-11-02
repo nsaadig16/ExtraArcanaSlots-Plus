@@ -1,4 +1,4 @@
----@meta AuthorName-ModName
+---@meta nsaadig16_team-Extra_Arcana_Layout_Slots_Plus
 local public = {}
 
 -- document whatever you made publicly available to other plugins here

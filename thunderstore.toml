@@ -3,11 +3,11 @@ schemaVersion = "0.0.1"
 
 
 [package]
-namespace = "ReadEmAndWeep"
-name = "Extra_Arcana_Layout_Slots"
-versionNumber = "0.0.2"
-description = "Adds extra slots for arcana layouts."
-websiteUrl = "https://github.com/Read-Em-And-Weep/ExtraArcanaSlots"
+namespace = "nsaadig16_team"
+name = "Extra_Arcana_Layout_Slots_Plus"
+versionNumber = "1.0.0"
+description = "Extends Extra Arcana Layout Slots from 16 to 30 arcana layouts."
+websiteUrl = "https://github.com/nsaadig16/ExtraArcanaSlots-Plus"
 containsNsfwContent = false
 
 [package.dependencies]
@@ -17,6 +17,7 @@ SGG_Modding-Chalk = "2.1.1"
 SGG_Modding-ReLoad = "1.0.2"
 SGG_Modding-SJSON = "1.0.0"
 SGG_Modding-ModUtil = "4.0.1"
+ReadEmAndWeep-Extra_Arcana_Layout_Slots = "0.0.2"
 
 
 [build]
